@@ -20,7 +20,6 @@
   align-items: stretch;
   justify-content: stretch;
   margin-bottom: 15px;
-  word-break: break-word;
 }
 
 @media (max-width: 600px) {
