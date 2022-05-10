@@ -1,0 +1,14 @@
+.list {
+  display: grid;
+  padding: 5px;
+  background: white;
+  display: grid;
+  column-gap: 15px;
+  align-items: stretch;
+  justify-content: stretch;
+  margin-top: 20px;
+}
+.list__header {
+  padding: 15px;
+  border-bottom: 1px solid #e7e5e5;
+}

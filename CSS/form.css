@@ -1,4 +1,4 @@
-.form__details {
+.form {
   padding: 5px;
   background: white;
   display: grid;
@@ -21,6 +21,7 @@
   align-items: stretch;
   justify-content: stretch;
   margin-bottom: 15px;
+  word-break: break-word;
 }
 
 @media (max-width: 600px) {
