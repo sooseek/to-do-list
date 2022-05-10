@@ -1,0 +1,30 @@
+.form__details {
+  padding: 5px;
+  background: white;
+}
+
+.form__header {
+  padding: 15px;
+  border-bottom: 1px solid #e7e5e5;
+  background-color: white;
+}
+
+.form__input {
+  height: 30px;
+  margin: 10px;
+}
+.form__input--details {
+  flex-basis: 100%;
+}
+
+.form__button--details {
+  flex-wrap: wrap;
+  flex-basis: 20%;
+  background-color: teal;
+  color: white;
+  padding: 5px;
+  border: none;
+  cursor: pointer;
+  transition: 1s;
+  margin: 10px;
+}
