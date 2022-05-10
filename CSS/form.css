@@ -13,8 +13,7 @@
   background-color: white;
 }
 
-.form__input {
-  height: 100%;
+.form__inputSection {
   display: grid;
   grid-template-columns: 4fr 1fr;
   column-gap: 40px;
@@ -25,20 +24,19 @@
 }
 
 @media (max-width: 600px) {
-  .form__input {
+  .form__inputSection {
     display: flex;
     flex-wrap: wrap;
-    flex-basis: 51%;
   }
 }
 
-.form__input--details {
+.form__input {
   width: 100%;
   margin-left: 15px;
   font-size: 20px;
 }
 
-.form__button--details {
+.form__button {
   background-color: teal;
   color: white;
   border: none;
@@ -48,7 +46,7 @@
 }
 
 @media (max-width: 600px) {
-  .form__button--details {
+  .form__button {
     margin: 5px 15px;
   }
 }
