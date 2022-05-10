@@ -33,4 +33,5 @@
 .list__button--remove {
   background: none;
   border: none;
+  padding: 0px;
 }

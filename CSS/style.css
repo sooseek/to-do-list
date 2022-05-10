@@ -9,12 +9,14 @@ html {
 }
 
 body {
-  margin: 0px auto;
+  margin: auto;
   max-width: 900px;
   padding: 0 20px;
-  display: flex;
-  flex-direction: column;
   font-family: "Lato", sans-serif;
   background-color: #e7e5e5;
   word-break: break-word;
+}
+
+.container {
+  background-color: white;
 }

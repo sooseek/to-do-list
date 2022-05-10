@@ -46,7 +46,7 @@
         <button class="js-done list__button--done">${
           task.done ? "✅" : "🟩"
         }</button>
-        <span class="${task.done ? "list__input--done" : ""}"  >${
+        <span class="${task.done ? "list__input--done" : ""}">${
         task.content
       }</span>
         <button class="js-remove list__button--remove">🗑️</button>

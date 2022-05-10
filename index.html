@@ -23,17 +23,11 @@
 <body>
     <main>
         <h1>Lista zadań</h1>
-        <section>
+        <section class="container">
+            <h2 class="form__header">Dodaj nowe zadanie</h2>
             <form class="form js-form">
-                <h2 class="form__header">Dodaj nowe zadanie</h2>
-                <span class="form__inputSection">
-                    <label>
-                        <input class="form__input js-newTask" required placeholder="Co jest do zrobienia?">
-                    </label>
-                    <label>
-                        <button class="form__button">Dodaj zadanie</button>
-                    </label>
-                </span>
+                <input class="form__input js-newTask" placeholder="Co jest do zrobienia?" autofocus>
+                <button class="form__button">Dodaj zadanie</button>
             </form>
         </section>
         <section class="list">
