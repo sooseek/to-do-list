@@ -18,4 +18,4 @@ This project use:
 * JavaScript
 
 ## Demo
-(./photos/toDoListDemo.gif)
+!(./photos/toDoListDemo.gif)
