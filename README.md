@@ -18,4 +18,4 @@ This project use:
 * JavaScript
 
 ## Demo
-! [Demo](./photos/toDoListDemo.gif)
+![toDoListDemo](https://user-images.githubusercontent.com/104437858/167800033-d73ee277-0b38-41b7-b27b-85be6166e78f.gif)
