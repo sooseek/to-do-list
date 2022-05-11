@@ -18,4 +18,5 @@ This project use:
 * JavaScript
 
 ## Demo
-![toDoListDemo](https://user-images.githubusercontent.com/104437858/167800033-d73ee277-0b38-41b7-b27b-85be6166e78f.gif)
+
+![toDoListDemo](https://user-images.githubusercontent.com/104437858/167800798-5dcb3cce-4266-4893-875b-325bee53b4d3.gif)
