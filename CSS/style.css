@@ -9,14 +9,20 @@ html {
 }
 
 body {
-  margin: auto;
-  max-width: 900px;
-  padding: 0 20px;
   font-family: "Lato", sans-serif;
-  background-color: #e7e5e5;
+  background-color: #eee;
   word-break: break-word;
 }
 
 .container {
-  background-color: white;
+  margin: 0 auto;
+  max-width: 850px;
+  padding: 20px;
+  word-break: break-word;
+}
+
+@media (max-width: 768px) {
+  .container {
+    margin: 20px;
+  }
 }
