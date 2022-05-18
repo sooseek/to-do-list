@@ -19,4 +19,7 @@ This project use:
 
 ## Demo
 
-![toDoListDemo](https://user-images.githubusercontent.com/104437858/167800798-5dcb3cce-4266-4893-875b-325bee53b4d3.gif)
+![toDoListDemo](https://user-images.githubusercontent.com/104437858/169009728-18445959-c2fa-47d1-89ea-800978ebc5a0.mp4)
+
+
+
